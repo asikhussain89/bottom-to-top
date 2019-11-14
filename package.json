@@ -1,0 +1,19 @@
+{
+  "name": "bottom-to-top",
+  "version": "1.0.0",
+  "description": "React component for use the bottom to top move in website with configurable design and functionality",
+  "main": "bottom-to-top.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asikhussain89/bottom-to-top.git"
+  },
+  "author": "Asik Hussain J",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asikhussain89/bottom-to-top/issues"
+  },
+  "homepage": "https://github.com/asikhussain89/bottom-to-top#readme"
+}
