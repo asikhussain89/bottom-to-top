@@ -1,6 +1,6 @@
 {
   "name": "bottom-to-top",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "React component for use the bottom to top move in website with configurable design and functionality",
   "main": "bottom-to-top.js",
   "scripts": {
